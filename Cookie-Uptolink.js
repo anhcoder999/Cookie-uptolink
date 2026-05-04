@@ -167,7 +167,7 @@
 "214-2":"nohu68.app",
 "215-2":"wrjllp.ru.com",
 "217-2":"28bet-t1.com",
-"219-2":"kim66.cn.com",
+"219-2":"rxo.uk.com",
 "220-2":"nohu90-mobile.app",
 "221-2":"shbet800f.info",
 "222-2":"debution.in.net",
