@@ -49,7 +49,7 @@
 "66-2":"rzc30x.za.com",
 "68-2":"ok8486n.net",
 "69-2":"c168-c168.com",
-"71-2":"saaspursuit.io",
+"71-2":"edudash.io",
 "72-2":"entraide.jp.net",
 "73-2":"ok8386n.net",
 "74-2":"luckywin-game.online",
